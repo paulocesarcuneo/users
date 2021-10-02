@@ -2,12 +2,12 @@
 Docker Yarn fastify mongodb hello world
 
 Este repositorio es un hola mundo utilizando:
-* fastify
-* fastify-swagger
-* fastify-mongodb
+* fastify : https://www.fastify.io/
+* fastify-swagger : https://github.com/fastify/fastify-swagger 
+* fastify-mongodb : https://github.com/fastify/fastify-mongodb
 
 Forma parte del ejemplo de como levantar multiples apps con docker-compose, y git sudmodules.
-https://github.com/paulocesarcuneo/integration
+https://github.com/taller-de-programacion-2/integration
 
 ## Ejecucion
 Para ejecutar la app es necesario pasar como envvar la url del mongodb y puerto donde escuchar request.
